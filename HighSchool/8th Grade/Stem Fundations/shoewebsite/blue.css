@@ -1,0 +1,44 @@
+@charset "utf-8"
+
+p { 
+	color: blue;
+	 font-family: "Times New Roman", Times, serif;
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1b0c66;
+}
+
+li {
+    float: center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #0a0530;
+}
+
+html{
+background: linear-gradient(to bottom right, #3845ff, #53007a);	
+color: white;
+margin-top: 100px;
+margin-right: 200px;
+margin-left: 200px;
+margin-bottom: 100px;
+}
+
+a {
+color: white;	
+}
+
